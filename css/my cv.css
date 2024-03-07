@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+
+
+
+
+
+.pipi{
+    color: #C92A2C;	
+	font-family: "Micro 5", sans-serif;
+}
+
+
+#lala {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;	
+	
+}
+
+.mybox {
+    width: 600px;
+    height: 80px;
+	border-width: thick;
+	border-style: solid;
+    background-color: #DA5B5D;
+    margin-top: 17px;
+    margin-right: 17px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    margin-bottom: 17px;
+    margin-left: 17px;
+    border-radius: 0px;
+}
+
+.btn-danger {
+	background-color: #DA5B5D;
+}
+
+.pipa {
+	color: aqua;
+}
