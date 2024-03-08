@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color:#F39031;
+    background-color:#9E4EC5;
 }
 
 .resume-main {
@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color:#AEECF9;
+	background-color:#E5C8FF;
 }
 
 /* Styles for lists in the document */
@@ -57,7 +57,7 @@ body {
 }
 
 .funky-text {
-color:aliceblue;
+color:#F7D9FF;
 text-align-last: left;
 font-style: italic;
 }	
