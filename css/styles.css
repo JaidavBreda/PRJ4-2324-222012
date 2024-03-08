@@ -68,3 +68,19 @@ font-style: italic;
     font-weight: bold;
     text-decoration: underline;
 }
+
+.mycolumnstyle1{
+	background-color:blue;
+	color:aliceblue;
+	
+}
+
+.mycolumnstyle2{
+	background-color: aqua;
+	color:aliceblue;
+}
+
+.mycolumnstyle3{
+	background-color: blueviolet;
+	color:aliceblue;
+}
